@@ -5,14 +5,24 @@
 Stroke is a medical disorder in which the blood arteries in the brain are ruptured, causing damage to the brain. When the supply of blood and other nutrients to the brain is interrupted, symptoms might develop. According to the World Health Organization (WHO), stroke is the greatest cause of death and disability globally. Early recognition of the various warning signs of a stroke can help reduce the severity of the stroke. Different machine learning (ML) models have been developed to predict the likelihood of a stroke occurring in the brain. This research uses a range of physiological parameters and machine learning algorithms, such as Logistic Regression (LR), Decision Tree (DT) Classification, Random Forest (RF) Classification, and Voting Classifier, to train four different models for reliable prediction. Random Forest was the best performing algorithm for this task with an accuracy of approximately 96 percent. 
 
 
+
  # Introduction:
 Stroke occurs when the blood flow to various areas of the brain is disrupted or diminished, resulting in the cells in those areas of the brain not receiving the nutrients and oxygen they require and dying. A stroke is a medical emergency that requires urgent medical attention. Early detection and appropriate management are required to prevent further damage to the affected area of the brain and other complications in other parts of the body. The World Health Organization (WHO) estimates that fifteen million people worldwide suffer from strokes each year, with one person dying every four to five minutes in the affected population. Stroke is the sixth leading cause of mortality in the United States according to the Centers for Disease Control and Prevention (CDC) [1]. Stroke is a noncommunicable disease that kills approximately 11% of the population. In the United States, approximately 795,000 people suffer from the disabling effects of strokes on a regular basis
+
+
 
 # Procedure and Experimental Methodology:
 This section includes a description of the dataset, a block diagram, a flow diagram, and evaluation matrices, as well as the process and methodology used in the study.
 
+
+
+
 #  Proposed System
 The data has become available for model construction once it has been processed. A preprocessed dataset and machine learning techniques are needed for the model construction. LR, DT classification, RF classification, and voting classifier are some of the methods used. After creating four alternative models, the accuracy measures, namely accuracy score, precision score, recall score, and F1 score are used to compare them
+
+
+
+
 
 # Proposed Algorithms:
 The most common disease identified in the medical field is stroke, which is on the rise year after year. Using the publicly accessible stroke prediction dataset, the study measured four commonly used machine learning methods for predicting brain stroke recurrence, which are as follows:
