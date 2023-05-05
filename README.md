@@ -1,3 +1,5 @@
+![healthcare tech illustration](https://user-images.githubusercontent.com/100337978/236539562-80194c4f-abe8-43ca-986d-4d2cbdaecf81.jpg)
+
 # Machine-Learning-Project
 
 # Abstract:
