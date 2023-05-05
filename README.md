@@ -14,6 +14,7 @@ Stroke occurs when the blood flow to various areas of the brain is disrupted or 
 # Procedure and Experimental Methodology:
 This section includes a description of the dataset, a block diagram, a flow diagram, and evaluation matrices, as well as the process and methodology used in the study.
 
+![images8](https://user-images.githubusercontent.com/100337978/236536639-1001629a-0321-467f-9219-ff9e351c7d2e.png)
 
 
 
