@@ -28,9 +28,12 @@ The data has become available for model construction once it has been processed.
 # Proposed Algorithms:
 The most common disease identified in the medical field is stroke, which is on the rise year after year. Using the publicly accessible stroke prediction dataset, the study measured four commonly used machine learning methods for predicting brain stroke recurrence, which are as follows:
 (i)	Random forest
+
 (ii)	Decision tree
+
 (iii)	Logistic regression
 
+![images (1)](https://user-images.githubusercontent.com/100337978/236537505-208d5ccd-a337-48cc-ad17-f09818d85446.jpg)
 
 
 # Conclusion:
